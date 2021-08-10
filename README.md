@@ -1,5 +1,5 @@
-# Chest-X-Ray-Medical-Diagnosis-with-Deep-Learning
-Chest X Ray Medical Diagnosis with Deep Learning
+# Chest-X-Ray-Medical-Diagnosis-with-Machine-Learning
+Chest X Ray Medical Diagnosis 
 
 For the dataset, head over to this site which is of nih and the dataset is of over 40GB in size, so I couldn't upload it to GitHub, and as soon as you download all of the dataset and unzip it to the folder in this repository named images-small, in the nih folder.
 The link for the dataset: https://nihcc.app.box.com/v/ChestXray-NIHCC
